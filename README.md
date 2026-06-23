@@ -1,267 +1,376 @@
-[Google Play Scraper](https://apify.com/curious_coder/google-play-scraper?fpr=data)
+[Google Play Scraper](https://apify.com/fatihai-tools/google-play-scraper?fpr=data)
 
-## 👾 What is Google Play Scraper?
+$/$Skip to content[![Apify logo](/img/apify-logo/wordmark.svg)![Apify logo](/img/apify-logo/wordmark-white.svg)](https://apify.com/)
 
-The Google Play Scraper is designed to **scrape Google Play Store apps, reviews, and developer data** based on your search query or URL.
+- [![Promotion image background](https://cdn-cms.apify.com/Apify_Store_b55e0b3991.webp)
 
-🔭 Extract Google Play data **by keywords, specific URLs or App IDs**
+Start here!
 
-🧚‍♀️ Extract **official app details, popularity, user reviews, and developer information** in one go
+Get data with ready-made web scrapers for popular websites
 
-👽 **Extract app data** from various categories on Google Play Store including Games, Apps, and Kids section
+Browse 27,897 Actors](https://apify.com/store)
 
-☄️ Get **more than 3,000 results for free**
+Apify platform
 
-⬇️ **Download Google Play data** in Excel, CSV, JSON, and other formats
+- [Apify Store
 
-## 🕹 Why scrape data from Google Play Store?
+Pre-built web scraping tools](https://apify.com/store)
+- [Actors
 
-Google Play has millions of apps and is a great source of data for market research. Here are some interesting uses for it:
+Build and run serverless programs](https://apify.com/actors)
+- [Integrations
 
-- Track app performance and reviews
-- Monitor competitors and their updates
-- Identify market trends and user preferences
-- Analyze developer activity and app features
-- Research user sentiment and feedback
+Connect with apps and services](https://apify.com/integrations)
+- [MCP
 
-## 📱 What app data can Google Play Scraper extract?
+Give your AI access to Actors](https://mcp.apify.com/)
 
-Google Play Scraper extracts details from apps and app reviews such as:
+Anti-blocking
 
-| 📱 App title and app ID | 📝 App description | ⭐ App score |
-| --- | --- | --- |
-| 📈 App ratings and star histogram | ⬇️ Number of installs | 🔗 App URL |
-| 💵 Pricing details | 📸 Screenshot and video URLs | 🐲 Game genre and categories |
-| 🌐 Developer website | 📍 Developer address | 📧 Developer email |
-| 📅 Release date | 🆕 Recent changes | 🔐 Privacy policy |
-| 👤 Reviewer's user name and image | ⭐ Review score | 🗓️ Review date |
-| 🔗 Review URL | 📝 Review text | 📦 App version |
-| 👍 Number of votes | 🎮 Criteria ratings | 💬 Reply text and date |
+- [Anti-blocking
 
-## 🔧 How to scrape app data from Google Play Store?
+Scrape without getting blocked](https://apify.com/anti-blocking)
+- [Proxy
 
-You can scrape details on all apps that match your query or a given URL. Just follow these steps to get your data in a few minutes.
+Rotate scraper IP addresses](https://apify.com/proxy)
 
-1. Find [Google Play Scraper](https://apify.com/curious_coder/google-play-scraper) on Apify Store and click **Try for free** button.
-2. Enter your search query and specify the number of apps want to scrape.
-3. Click "Start" and wait for the app or reviews data to be extracted.
-4. Preview and download your dataset in JSON, XML, CSV, Excel, or HTML, or export it via API.
+Open source
 
-## ⭐️ How to scrape reviews data from Google Play Store?
+- [Crawlee
 
-You can scrape all reviews that match the app ID. Just follow these steps to get your data in a few minutes.
+Web scraping and crawling library](https://crawlee.dev/)
+- [![Promotion image background](https://cdn-cms.apify.com/mcp_server_configuration_manu_image_light_a56988095e.png)
 
-1. Find [Google Play Scraper](https://apify.com/curious_coder/google-play-scraper) on Apify Store and click **Try for free** button.
-2. Enter app IDs and specify the number of reviews you want to scrape.
-3. If you don't have app IDs ready, first extract them using the same [Google Play Scraper](https://apify.com/curious_coder/google-play-scraper), then use appIDs in the output as the new input for reviews.
-4. Click "Start" and wait for the app or reviews data to be extracted.
-5. Preview and download your dataset in JSON, XML, CSV, Excel, or HTML, or export it via API.
+MCP server configuration
 
-## 💸 Is this Google Play Store API free?
+Configure your Apify MCP server with Actors and tools for seamless integration with MCP clients.
 
-Yes. Apify provides you with $5 free usage credits every month on the [Apify Free plan](https://apify.com/pricing), so with Google Play Scraper you can **scrape thousands of results for free** within those limits. The range of free results depends on the complexity of your input: URLs, reviews or keywords.
+Start building](https://mcp.apify.com/)
 
-## ⬇️ Input
+Web data for
 
-To scrape app details, the input for this Google Play Scraper should be **search keywords or app URLs**. To scrape app reviews, the input for this Google Play Scraper should be **Google Play app IDs and number of reviews to scrape.**
+- [Enterprise](https://apify.com/enterprise)
+- [Startups](https://apify.com/resources/startups)
+- [Universities](https://apify.com/resources/universities)
+- [Nonprofits](https://apify.com/resources/nonprofits)
 
-[![Google Play API input](https://images.apifyusercontent.com/1yjdNi2KvljqN8p7H5BaQjrYfxEtA-GEWGMkSEMJkY4/w:1800/cb:1/aHR0cHM6Ly9naXRodWIuY29tL2FwaWZ5LXByb2plY3RzL2FjdG9yLXJlYWRtZS1pbWFnZXMvYmxvYi9tYXN0ZXIvR29vZ2xlJTIwUGxheSUyMEFQSSUyMGlucHV0LnBuZz9yYXc9dHJ1ZQ.webp)](https://console.apify.com/actors/LC7ZgFxSr2us77QPC)
+Use cases
 
-You can input data by filling out fields, using JSON, or programmatically via an API. For a full explanation of input in JSON, see the [input tab](https://apify.com/curious_coder/google-play-scraper/input-schema).
+- [Data for generative AI](https://apify.com/use-cases/data-for-generative-ai)
+- [Data for AI agents](https://apify.com/use-cases/data-for-ai-agents)
+- [Lead generation](https://apify.com/use-cases/lead-generation)
+- [Market research](https://apify.com/use-cases/market-research)
+- [View more →](https://apify.com/use-cases)
 
-## ⬆️ Output sample
+Consulting
 
-The results will be wrapped into a dataset which you can find in the **Output** tab. Here's an example from the Google Play dataset from the input above:
+- [Apify Professional Services](https://apify.com/professional-services)
+- [Apify Partners](https://apify.com/partners)
+- - [Documentation
 
-[![Google Play Store API dataset](https://images.apifyusercontent.com/JqVhhQ4_snxyvJBBS36sJiri0wuxtKntbDvC0wIc-UU/w:1800/cb:1/aHR0cHM6Ly9naXRodWIuY29tL2FwaWZ5LXByb2plY3RzL2FjdG9yLXJlYWRtZS1pbWFnZXMvYmxvYi9tYXN0ZXIvR29vZ2xlJTIwUGxheSUyMFN0b3JlJTIwQVBJJTIwZGF0YXNldC5wbmc_cmF3PXRydWU.webp)](https://console.apify.com/actors/LC7ZgFxSr2us77QPC)
+Full reference for the Apify platform](https://docs.apify.com/)
 
-You can preview all the fields in the **Storage** tab and choose the format in which to export the   Google Play Store data you've extracted: JSON, CSV, Excel, or HTML table. Here below are two sample datasets in JSON:
+Get started
 
-### 📲 App details
+- [Code templates
 
-```
-{
-	"title": "Coolmath Games Fun Mini Games",
-	"description": "Your favorite casual games and mini games from the web are now on mobile! Coolmath Games is full of fun casual games, mini games, trivia & brain-training puzzles for everyone. Play fun logic, math and thinking games today!\n\nIf you love the Coolmath Games website, you’ll love the official app with hundreds of our favorite math, logic, casual, trivia, thinking and strategy mini games made especially for mobile phones and tablets! Play all sorts of fun mini games, trivia and educational games for hours – Coolmath Games has a fun mini game for you!\n\nWith new casual mini games added every week, you’ll never run out of new gaming challenges. Coolmath Games is kid-friendly because there is never violence, empty action, or inappropriate language – just a wide range of fun casual games and strategy puzzles! Fun starts with mini games!\n\nPlay our most popular logic, casual games, math and strategy mini games including:\n\n* Bob the Robber: Play this fun classic game and use logic to help Bob expose the real crook!\n* Block the Pig: The fun casual strategy game where you place walls to prevent the little snorter from escaping!\n* IQ Ball: Use your brain to solve climbing and grabbing puzzles in as few moves as possible. \n* Checkers: A strategy classic! Play against the computer or challenge other players to an online multiplayer game!\n* Parking Fury: Solve fun parking puzzles as you drive and play with realistic steering and pedal controls.  \n* 2048: Match and multiply your way through this fun logic puzzle to 2048.\n* Toy Defense: A classic tower defense game. Find the best strategy to protect your base!\n\nWith game categories like Fun Physics, Path Planning, Quick Reaction, Drawing and Match 3, Coolmath Games lets you train your brain in all sorts of ways. Recently named one of the internet’s all-time favorite websites by Popular Mechanics, Coolmath Games brings your favorite educational mini games, logic, math and learning games to your mobile devices.\n\nCoolmath Games has mini games, casual games and trivia for hours of fun and learning!",
-	"descriptionHTML": "Your favorite casual games and mini games from the web are now on mobile! Coolmath Games is full of fun casual games, mini games, trivia &amp; brain-training puzzles for everyone. Play fun logic, math and thinking games today!<br><br>If you love the Coolmath Games website, you’ll love the official app with hundreds of our favorite math, logic, casual, trivia, thinking and strategy mini games made especially for mobile phones and tablets! Play all sorts of fun mini games, trivia and educational games for hours – Coolmath Games has a fun mini game for you!<br><br>With new casual mini games added every week, you’ll never run out of new gaming challenges. Coolmath Games is kid-friendly because there is never violence, empty action, or inappropriate language – just a wide range of fun casual games and strategy puzzles! Fun starts with mini games!<br><br>Play our most popular logic, casual games, math and strategy mini games including:<br><br>* Bob the Robber: Play this fun classic game and use logic to help Bob expose the real crook!<br>* Block the Pig: The fun casual strategy game where you place walls to prevent the little snorter from escaping!<br>* IQ Ball: Use your brain to solve climbing and grabbing puzzles in as few moves as possible. <br>* Checkers: A strategy classic! Play against the computer or challenge other players to an online multiplayer game!<br>* Parking Fury: Solve fun parking puzzles as you drive and play with realistic steering and pedal controls.  <br>* 2048: Match and multiply your way through this fun logic puzzle to 2048.<br>* Toy Defense: A classic tower defense game. Find the best strategy to protect your base!<br><br>With game categories like Fun Physics, Path Planning, Quick Reaction, Drawing and Match 3, Coolmath Games lets you train your brain in all sorts of ways. Recently named one of the internet’s all-time favorite websites by Popular Mechanics, Coolmath Games brings your favorite educational mini games, logic, math and learning games to your mobile devices.<br><br>Coolmath Games has mini games, casual games and trivia for hours of fun and learning!",
-	"summary": "Play strategy, logic &amp; learning games for a fun mental workout!",
-	"installs": "1,000,000+",
-	"minInstalls": 1000000,
-	"maxInstalls": 1369210,
-	"score": 3.576,
-	"scoreText": "3.6",
-	"ratings": 5015,
-	"reviews": 1477,
-	"histogram": {
-		"1": 1256,
-		"2": 279,
-		"3": 400,
-		"4": 466,
-		"5": 2606
-	},
-	"price": 0,
-	"free": true,
-	"currency": "USD",
-	"priceText": "Free",
-	"available": true,
-	"offersIAP": false,
-	"androidVersion": "5.0",
-	"androidVersionText": "5.0",
-	"androidMaxVersion": "VARY",
-	"developer": "CoolmathGames.com",
-	"developerId": "7876604119083871959",
-	"developerEmail": "mobile@coolmath.com",
-	"developerWebsite": "https://coolmathgames.com",
-	"developerAddress": "122 East 42nd Street\nSuite 1611\nNew York, NY 10168",
-	"privacyPolicy": "https://www.coolmathgames.com/app-privacy-policy",
-	"developerInternalID": "7876604119083871959",
-	"genre": "Arcade",
-	"genreId": "GAME_ARCADE",
-	"categories": [
-		{
-			"name": "Casual",
-			"id": "GAME_CASUAL"
-		},
-		{
-			"name": "Minigames",
-			"id": null
-		},
-		{
-			"name": "Multiplayer",
-			"id": null
-		},
-		{
-			"name": "Competitive multiplayer",
-			"id": null
-		},
-		{
-			"name": "Single player",
-			"id": null
-		},
-		{
-			"name": "Stylized",
-			"id": null
-		},
-		{
-			"name": "Offline",
-			"id": null
-		}
-	],
-	"icon": "https://play-lh.googleusercontent.com/GOSj_Oh_taPXIomBMiiTRNM1Mg3LP9qKJ4gRIuCRV2jQ0oa9VUIC2SHAiY8GL09j6ts",
-	"headerImage": "https://play-lh.googleusercontent.com/iPKMWbRxgfaUTqYSezs2FgBQKRlJaSyCIR3aCkxHh2t6o28Z7zQOsn5v2CIsm11yoGU",
-	"screenshots": [
-		"https://play-lh.googleusercontent.com/ZzFGj_MgQ2_LoXc0XleZzTiKLTktYve5IxgLUcmLJIXdFBRRojMVTH052SNfkVI1dJA8",
-		"https://play-lh.googleusercontent.com/OkJFfEddiKGa8mbgvcqNCIYpZQKwlhDgFs4KTZaykFdZz7Z0yUdVjNmAtM9Gmxy1ubZf",
-		"https://play-lh.googleusercontent.com/OIZTR-_YD-P1Z2pW4draBCIg7nbHrw7pUEMszM892Er_u2UpBu7H-7028hGXg_ndyTXB",
-		"https://play-lh.googleusercontent.com/hjRM__CGvcsuzzKzaz9SXwzHmpF6Yb6tR16350M8RD21iIbTihKR4YfZ333MGvAOVKfA",
-		"https://play-lh.googleusercontent.com/wkKOflrpH835tjgDWyn3KApglNSJiCbRTMkK9AEasLRJfG33HnaaegD3kKQRU5Dheg",
-		"https://play-lh.googleusercontent.com/Bq56xjAcMbBd8VFvVfmnO52wkGJs1FpwTBEw6L-8WjNBmkQ0CxVZ3LUpmhMPjz-ksBY",
-		"https://play-lh.googleusercontent.com/rZjjdGivAnBWcEylFadbB_0vJ8B1zQJqfNdFEnQlE33ERWnXpoOPRu72H8SGUF5b-r0",
-		"https://play-lh.googleusercontent.com/wteh08ZsZI6FqUN3E6yYV4b-22yqlKFynLmP3EzFUpw6O5GNmwjQZMi4y88mHqZCNmw",
-		"https://play-lh.googleusercontent.com/lJ0DkN9QW3c9Xn7-XimJsGHC7K7Cl-VWd0fCIuN1r3k2oSBrx9fze9LCUAgYT0LRJ5b3",
-		"https://play-lh.googleusercontent.com/2J8AJqZADwSbkcPlmUqMO5RAlX2WEZ16wcqlGoVqWPmyYUQ_f4pmMYnW0dau0AsU5i0",
-		"https://play-lh.googleusercontent.com/6r9DmlE6ZNxe6BiPzWj8sZSk0ZBbLvOgIZLXz37YiInWpGBP2WVeA-AM4TIhxHi33A",
-		"https://play-lh.googleusercontent.com/fZVMzsmiFjbPimBm6kFhJC5CvKkN_FpyGUa3CbCJqZiw_culyVNYYMef5wTMtK4OZsE",
-		"https://play-lh.googleusercontent.com/g40qsYIcIkgDoZWJwqk-VfkvFY2kGt2-LzxogzWQrQVOQC0CYLal5TTjIREr564fzaA",
-		"https://play-lh.googleusercontent.com/9MN3Ui-lcNt9DFvyA4huzG2HEQr1bSnGyshDAdcMLRIdfI0I4hvlc0qcx8P4e1tAbWk",
-		"https://play-lh.googleusercontent.com/L3Vu-CIWuWhYCrxmRkMwSw1_yHGU0WfB3uJCHw9SQFFaQ5lwOiLKaJuR8Lvno9ERdwYX",
-		"https://play-lh.googleusercontent.com/q5hJFrDC6_kQlsscXNG8S8MlLBcy5zd7oT3AzolXm-FR7fZYiUq-s-7pOTwvwF3cnMDU",
-		"https://play-lh.googleusercontent.com/-v9zOOaOlCbuPOhgwX_lnbjZAkY7_Vjm7hRyDhLcy2M6v4pXsjKIg3epL0pauUYPS58",
-		"https://play-lh.googleusercontent.com/lrXfhIS4uvxeLaIbi_cRt-HXZ16qYb9ukGSSQiaFPkDIKb6sW1NBUSagO_Q1ewjk4TuR",
-		"https://play-lh.googleusercontent.com/-lWEH7KWcTzZZ9AkCK3ZPkj8e1tw55-pXHu0rU9kyElXLTHEcw1piqY0_Ny2TrSCde0",
-		"https://play-lh.googleusercontent.com/eqMTHwdlDauIuFVqDeuLRaz88BPhUtxww87Od1v6FXneifijs-KQ-ebSq15xasc1uhU",
-		"https://play-lh.googleusercontent.com/J9wreRc-4B_u4ZVV_JzQaX4y-DP3XT1FdogWOyMORN74RCuodiEZ0LOkyAcD9IX9",
-		"https://play-lh.googleusercontent.com/n6QpslWQX3F9T41ijaN-m6_nrxxzgxUg2j6a_dvBnvDzg6IdEO1HNVGAGN8XXQktHg",
-		"https://play-lh.googleusercontent.com/GxFWf_Dtc2qZBib6sUFRLnq0giEiHlz2UHAeteH5tXaR6axEAQoCh9IRXFSQY4AZ0Z4",
-		"https://play-lh.googleusercontent.com/pEGVCsAmhqnYiZov5vQpxzRRCBzdh_ATOlx9m_wXweOzskRTz2w9P_cpMAVhqA5QcQ"
-	],
-	"video": "https://www.youtube.com/embed/sHdqJFdEbzg?ps=play&vq=large&rel=0&autohide=1&showinfo=0",
-	"videoImage": "https://play-lh.googleusercontent.com/iPKMWbRxgfaUTqYSezs2FgBQKRlJaSyCIR3aCkxHh2t6o28Z7zQOsn5v2CIsm11yoGU",
-	"previewVideo": "https://play-games.googleusercontent.com/vp/mp4/1280x720/sHdqJFdEbzg.mp4",
-	"contentRating": "Everyone",
-	"contentRatingDescription": "Mild Fantasy Violence",
-	"adSupported": false,
-	"released": "Sep 23, 2019",
-	"updated": 1709126357000,
-	"version": "1.4.3",
-	"recentChanges": "Bug Fixes and Improvements.",
-	"comments": [
-		null
-	],
-	"preregister": false,
-	"earlyAccessEnabled": false,
-	"isAvailableInPlayPass": false,
-	"appId": "com.coolmath_games.coolmath",
-	"url": "https://play.google.com/store/apps/details?id=com.coolmath_games.coolmath&hl=en&gl=us"
-}
-```
+Python, JavaScript, and TypeScript](https://apify.com/templates)
+- [Web scraping academy
 
-### ⭐️ App review
+Courses for beginners and experts](https://docs.apify.com/academy)
+- [Monetize your code
 
-```
-{
-	"id": "0e5ec468-f8a3-4d3d-8b1f-24b1cbb5b309",
-	"userName": "Logan Landman",
-	"userImage": "https://play-lh.googleusercontent.com/a-/AD_cMMQLM0vtsmrJyz4OzNBTa55rUPIX66-XZ0p0ljkhdBBD2Ic",
-	"date": "2023-07-03T20:58:35.428Z",
-	"score": 5,
-	"scoreText": "5",
-	"url": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa&reviewId=0e5ec468-f8a3-4d3d-8b1f-24b1cbb5b309",
-	"title": null,
-	"text": "Legitametly great port for what it is. Many people complain about the downgrades, and yes these ports do somewhat have a reputation with the Definitive Editions, but the downgrades are minor and are honestly not much of a problem and really should've been expected. This port is great and perfect for on-the-go, controls can be a bit weird and frustrating but once you get used to them it's not much of a problem. Highly recommended.",
-	"replyDate": null,
-	"replyText": null,
-	"version": "2.11.32",
-	"thumbsUp": 132,
-	"criterias": [
-		{
-			"criteria": "vaf_games_genre_shooting",
-			"rating": 1
-		},
-		{
-			"criteria": "vaf_games_massively_multi_player",
-			"rating": 2
-		},
-		{
-			"criteria": "vaf_games_subject_bmx",
-			"rating": 3
-		}
-	]
-}
-```
+Publish your scrapers and get paid](https://apify.com/partners/actor-developers)
 
-## 📱 Related App Store Scrapers
+Learn
 
-For comprehensive app store data extraction across multiple platforms, check out these related scrapers. To scrape Apple App Store apps, reviews, and developer data, use the [Apple Store Scraper](https://apify.com/supreme_scraper/apple-store-scraper) which provides similar functionality for iOS apps.
+- [API reference](https://docs.apify.com/api)
+- [CLI](https://docs.apify.com/cli/)
+- [SDK](https://docs.apify.com/sdk)
+- [MCP](https://docs.apify.com/platform/integrations/mcp)
+- [Crawlee](https://crawlee.dev/)
 
-## ❓FAQ
+[![Promotion image background](https://cdn-cms.apify.com/open_source_fair_share_light_resized_10_a382097735.png)
 
-### Does Google Play Store have API?
+Earn from your code
 
-No, Google Play doesn't have an official API for retrieving data on games, reviews and devs. While there's ([Google Play Developer API](https://developers.google.com/android-publisher)) neither of these APIs provide access to the app data .
+$1M paid out last month. Many developers earn over $3k.
 
-This is why alternative solutions like Google Play Scraper exist. A scraper is essentially an API of its own if it allows exporting scraped data via an API.
+Start earning now](https://apify.com/partners/actor-developers)
+- - [Help and support
 
-### Can I scrape Google Play app reviews if I don't have app IDs?
+Advice and answers about Apify](https://help.apify.com/en/)
+- [Actor ideas
 
-Yes. Just use Google Play Scraper in two runs. First, scrape app details using search or URL input. Your output from this run will contain App IDs. Then, filter out App IDs from the output and use them as an input for the second run. Done!
+Get inspired to build Actors](https://apify.com/ideas)
+- [Changelog
 
-### Can I integrate Google Play Scraper with other apps?
+See what’s new on Apify](https://apify.com/change-log)
+- [Customer stories
 
-Yes. This Google Play Scraper can be connected with almost any cloud service or web app thanks to integrations on the Apify platform. You can **integrate your Google Play data with Zapier, Slack, Make, Airbyte, GitHub, Google Drive, LangChain** [and more](https://docs.apify.com/integrations).
+Find out how others use Apify](https://apify.com/success-stories)
 
-You can also use [webhooks](https://docs.apify.com/integrations/webhooks) to carry out an action whenever an event occurs, e.g., get a notification whenever Play Store Scraper successfully finishes a run.
+Company
 
-### Can I use Google Play Scraper as its Google Play Store API?
+- [About Apify](https://apify.com/about)
+- [Contact us](https://apify.com/contact)
+- [Blog](https://blog.apify.com/)
+- [Live events](https://lu.ma/apify)
+- [Partners](https://apify.com/partners)
+- [Jobs
 
-Yes, you can use the Apify API to access Google Play Scraper programmatically. The API allows you to manage, schedule, and run Apify Actors, access datasets, monitor performance, get results, create and update Actor versions, and more.
+We're hiring!](https://apify.com/jobs)
 
-To access the API using Node.js or Python, you can use the `apify-client` in [NPM package](https://apify.com/curious_coder/google-play-scraper/api/client/nodejs) or [PyPI package](https://apify.com/curious_coder/google-play-scraper/api/client/python). There are also [API endpoints](https://apify.com/curious_coder/google-play-scraper/api/endpoints) available for extracting Google Play data without a client. For detailed information and code examples, see the [API tab](https://apify.com/curious_coder/google-play-scraper/api/endpoints) or refer to the [Apify API documentation](https://docs.apify.com/api/v2).
+[![Promotion image background](https://cdn-cms.apify.com/Join_our_Discord_b7eb9d974a.webp)
 
-### Is it legal to scrape data from Google Play?
+Join our Discord
 
-Note that personal data such as names  is protected by GDPR in the European Union and by other regulations around the world. You should not scrape personal data unless you have a legitimate reason to do so. If you're unsure whether your reason is legitimate, consult your lawyers. We also recommend that you read our blog post: [Is web scraping legal?](https://blog.apify.com/is-web-scraping-legal/)
+Talk to scraping experts](https://discord.com/invite/jyEM2PRvMU)
+- [Pricing](https://apify.com/pricing)
+- [Contact sales](https://apify.com/contact-sales)
 
-### Your feedback
+![Google Play Store Data Scraper - Sensor Tower Alternative avatar](https://apify.com/img/store/actor_picture.svg)
 
-We’re always working on improving the performance of our Actors. So if you’ve got any technical feedback for Google Play Scraper or simply found a bug, please create an issue on the Actor’s [Issues tab](https://apify.com/curious_coder/google-play-scraper/issues/open).
+Google Play Store Data Scraper - Sensor Tower Alternative
+
+Pricing
+
+Pay per usage
+
+[Try for free](https://console.apify.com/actors/5zejrug9YeRsIcsEX?addFromActorId=5zejrug9YeRsIcsEX)[Go to Apify Store](https://apify.com/store)![Google Play Store Data Scraper - Sensor Tower Alternative](https://apify.com/img/store/actor_picture.svg)
+
+# Google Play Store Data Scraper - Sensor Tower Alternative
+
+[Try for free](https://console.apify.com/actors/5zejrug9YeRsIcsEX?addFromActorId=5zejrug9YeRsIcsEX)
+
+Scrape data from Google Play Store fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Sensor Tower. Use for lead generation, market research, competitive analysis.
+
+Pricing
+
+Pay per usage
+
+Rating
+
+0.0
+
+( 0 )
+
+Developer
+
+[![fatih dağüstü](/_next/image?url=https%3A%2F%2Fimages.apifyusercontent.com%2FgIyeDxlfCFcoJEXatFV1exqe2mauCJ6umO7ppMnJ-E0%2Frs%3Afill%3A224%3A224%2Fcb%3A1%2FaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVNULVgwbWtnVm5fYV9UaS1RMGZsMGNKZ2ItUEVscThudGtnMDFzZ1dnWkhEbDlBPXM5Ni1j.webp&w=3840&q=75)
+
+fatih dağüstü](https://apify.com/fatihai-tools)Maintained by  Community
+
+Actor stats
+
+0
+
+Bookmarked
+
+4
+
+Total users
+
+3
+
+Monthly active users
+
+7 days ago
+
+Last modified
+
+Categories
+
+[Developer tools](https://apify.com/store/categories/developer-tools)[Business](https://apify.com/store/categories/business)
+
+Share
+
+[README](https://apify.com/fatihai-tools/google-play-scraper)[Input](https://apify.com/fatihai-tools/google-play-scraper/input-schema)[Pricing](https://apify.com/fatihai-tools/google-play-scraper/pricing)[API](https://apify.com/fatihai-tools/google-play-scraper/api/python)[Issues](https://apify.com/fatihai-tools/google-play-scraper/issues/open)
+
+The Actor has no **README.md** file. Sad!
+
+## You might also like
+
+[### Google Play Store Data Scraper - Sensor Tower Alternative
+
+fatihai-tools / google-play-store-apps-scraper
+
+Scrape data from Google Play Store fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Sensor Tower. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/google-play-store-apps-scraper)[### Apple App Store Data Scraper - Sensor Tower Alternative
+
+fatihai-tools / app-store-scraper
+
+Scrape data from Apple App Store fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Sensor Tower, AppFollow. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/app-store-scraper)[### Apple App Store Data Scraper - Sensor Tower Alternative
+
+fatihai-tools / app-store-apps-scraper
+
+Scrape data from Apple App Store fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Sensor Tower, AppFollow. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/app-store-apps-scraper)[### Google Reviews Data Scraper - Trustpilot scraper Alternative
+
+fatihai-tools / google-reviews-scraper
+
+Scrape data from Google Reviews fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Trustpilot scraper. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+6](https://apify.com/fatihai-tools/google-reviews-scraper)[### Yelp Data Scraper - Google Maps Alternative
+
+fatihai-tools / yelp-business-scraper
+
+Scrape data from Yelp fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Google Maps, TripAdvisor. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+1](https://apify.com/fatihai-tools/yelp-business-scraper)[### Yelp Data Scraper - Google Maps Alternative
+
+fatihai-tools / yelp-food-scraper
+
+Scrape data from Yelp fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Google Maps, TripAdvisor. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/yelp-food-scraper)[### Google Jobs Job Listings Scraper - Indeed Alternative
+
+fatihai-tools / google-jobs-scraper
+
+Scrape job listings from Google Jobs fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Indeed, ZipRecruiter. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+5](https://apify.com/fatihai-tools/google-jobs-scraper)[### Company Data Data Scraper - Crunchbase Alternative
+
+fatihai-tools / company-info-scraper
+
+Scrape data from Company Data fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Crunchbase, ZoomInfo. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+7](https://apify.com/fatihai-tools/company-info-scraper)[### Ip Data Scraper - competitors Alternative
+
+fatihai-tools / ip-geolocation
+
+Scrape data from Ip fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to competitors. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/ip-geolocation)[### TripAdvisor Data Scraper - Booking Alternative
+
+fatihai-tools / tripadvisor-travel-scraper
+
+Scrape data from TripAdvisor fast. Bulk URL or query input, structured JSON/CSV output, no login required. Free trial — perfect alternative to Booking, Expedia. Use for lead generation, market research, competitive analysis.
+
+![User avatar](https://images.apifyusercontent.com/3hqpkgYhriHguznw66rIW11nfPTLFOJ1VQLgxuDwM-M/rs:fill:32:32/cb:1/aHR0cHM6Ly9pbWFnZXMuYXBpZnl1c2VyY29udGVudC5jb20vcFIxNmd0MWYwNERSLWpOTVFJWU9rUGFVNmpNT1NYZFRPUmFUenZicmtDQS9yczpmaWxsOjMyOjMyL2NiOjEvYUhSMGNITTZMeTlzYURNdVoyOXZaMnhsZFhObGNtTnZiblJsYm5RdVkyOXRMMkV2UVVObk9HOWpTVk5VTFZnd2JXdG5WbTVmWVY5VWFTMVJNR1pzTUdOS1oySXRVRVZzY1RodWRHdG5NREZ6WjFkbldraEViRGxCUFhNNU5pMWo.webp)
+
+fatih dağüstü
+
+2](https://apify.com/fatihai-tools/tripadvisor-travel-scraper)$/$
+
+Product
+
+- [Apify Store](https://apify.com/store)
+- [Integrations](https://apify.com/integrations)
+- [Proxy](https://apify.com/proxy)
+- [MCP](https://mcp.apify.com/)
+- [Crawlee](https://crawlee.dev/)
+
+Developers
+
+- [Documentation](https://docs.apify.com/)
+- [Code templates](https://apify.com/templates)
+- [API reference](https://docs.apify.com/api)
+- [Get paid on Apify](https://apify.com/partners/actor-developers)
+
+Consulting
+
+- [Professional Services](https://apify.com/professional-services)
+- [Apify Partners](https://apify.com/partners)
+
+Support
+
+- [Help & Support](https://help.apify.com/en/)
+- [Submit your ideas](https://apify.com/ideas)
+- [Forum](https://discord.apify.com/)
+
+Spotlight
+
+- [APIs](https://apify.com/api)
+- [What is web scraping?](https://blog.apify.com/what-is-web-scraping/)
+- [Best web scraping tools](https://blog.apify.com/best-web-scraping-tools/)
+- [Python web scraping libraries](https://blog.apify.com/what-are-the-best-python-web-scraping-libraries/)
+- [Scrapers](https://apify.com/scrapers)
+
+Company
+
+- [About Apify](https://apify.com/about)
+- [Contact us](https://apify.com/contact)
+- [Events](https://lu.ma/apify)
+- [Blog](https://blog.apify.com/)
+- [Become an affiliate](https://apify.com/partners/affiliate)
+- [Customer stories](https://apify.com/success-stories)
+- [Changelog](https://apify.com/change-log)
+- [JobsWe're hiring!](https://apify.com/jobs)
+- [Brand](https://apify.com/resources/brand)
+- [Impressum](https://docs.apify.com/legal)
+
+[![Apify logo](/img/apify-logo/logomark-32x32.svg)](https://apify.com/)
+
+Socials
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+Security
+
+- [![GDPR image](https://cdn-cms.apify.com/GDPR_a807ac9a_ba0683f740.svg)](https://docs.apify.com/legal/gdpr-information)
+- [![SOC2 image](https://cdn-cms.apify.com/SOC_dc6cf5ae_f7999d700f.svg)](https://trust.apify.com/)
+
+Reviews
+
+- [![GetApp Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FGet_App_1f4079a540.png&w=3840&q=75)](https://www.getapp.com/business-intelligence-analytics-software/a/apify/)
+- [![Software Advice Apify reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FSoftwareadvice_88026ee6c2.png&w=3840&q=75)](https://www.softwareadvice.com/data-extraction/apify-profile/)
+- [![Capterra Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FCapterra_ce83db3070.png&w=3840&q=75)](https://www.capterra.com/p/150854/Apify/)
+- [![G2 Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FG2_d80d60f2f8.png&w=3840&q=75)](https://www.g2.com/products/apify/reviews)
+- [![TrustRadius Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FTrust_Radius_7ca0e0bdad.png&w=3840&q=75)](https://www.trustradius.com/products/apify/reviews)
+- [![Crozdesk Apify user reviews image](/_next/image?url=https%3A%2F%2Fcdn-cms.apify.com%2FCrozdesk_1d12ceb040.png&w=3840&q=75)](https://crozdesk.com/software/apify)
+
+[Loading status...](https://status.apify.com/)
+
+[Terms of Use](https://docs.apify.com/legal/general-terms-and-conditions)
+
+[Privacy Policy](https://docs.apify.com/legal/privacy-policy)
+
+[Cookie Policy](https://docs.apify.com/legal/cookie-policy)
+
+[©  2026  Apify](https://docs.apify.com/legal)
